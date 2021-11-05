@@ -15,6 +15,7 @@ FILE_PATH = os.path.dirname(os.path.realpath(__file__))
 demographics_config = {
     "SEQN": ("seq_no", "int64"),
     "RIDAGEYR": ("age", "int8"),
+    "RIAGENDR": ("gender", "category"),
     "RIDRETH3": ("race_ethnicity", "category"),
     "DMDEDUC2": ("education", "category"),
     "DMDMARTL": ("marital_status", "category"),
