@@ -25,4 +25,29 @@
 # ---
 
 
+```
+# -*- coding: utf-8 -*-
+# ---
 
+
+# > ### Question 0 is about Markdown
+
+# The next question is about the **Fibonnaci sequence**, ${F_{n}=F_{n−2}+F_{n−1}}$. In part *a* we will define a Python function `fib_rec()`.
+
+# Below is a ...
+
+# ### Level 3 Header
+
+# Next, we can make a bulleted list:
+#  - Item 1
+#    - detail 1
+#    - detail 2
+#  - Item 2
+
+# Finally, we can make an enumerated list:
+# 1. Item 1
+# 1. Item 2
+# 1. Item 3
+
+# ---
+```
